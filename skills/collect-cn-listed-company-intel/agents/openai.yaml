@@ -1,0 +1,4 @@
+interface:
+  display_name: "CN Listed Company Intel"
+  short_description: "Collect China listed-company signals."
+  default_prompt: "Use $collect-cn-listed-company-intel to gather recent announcements, Weibo posts, and web intelligence for a Chinese listed company."
